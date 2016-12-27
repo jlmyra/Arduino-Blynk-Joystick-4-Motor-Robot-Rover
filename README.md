@@ -8,4 +8,7 @@ The code below was developed to operate a four motor Rover-Robot with an Arduino
                                                                     ^
  during compliation. It doesn't seem to be an issue.
  
+ The other sketch in the repository: Four_Motor_Arduino_101_Blynk_BLE  will enable the operation of the Rover-Robot with Blynk
+ Pushbuttons instead of the Joystick
+ 
  Use this code at your own risk! 
