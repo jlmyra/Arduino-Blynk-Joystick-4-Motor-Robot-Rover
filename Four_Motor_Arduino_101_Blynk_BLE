@@ -1,5 +1,5 @@
 /**************************************************************
- * This sketch is for an Arduino 101 BLE rover using Blynk and Adafruit Motor Shield V2
+ * This sketch is for an Arduino 101 BLE rover using Blynk Pushbuttons and Adafruit Motor Shield V2
  * Code was copied from both Adafruit and Blynk librarie examples
  * Full documentation on building this rover yourself on Hackster.IO and electronhacks.com
  * Sketch is released under MIT license
