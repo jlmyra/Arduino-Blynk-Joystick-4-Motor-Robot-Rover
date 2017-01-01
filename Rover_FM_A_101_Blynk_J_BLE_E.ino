@@ -12,6 +12,8 @@
 // Joystick code adapted from SparkFun Joystick Code -  https://goo.gl/FGvKYN  Thank-you to SparkFun
 // for your parts and help!
 
+//This sketch was inspired by Intel Arduino 101 BLE Blynk Tank posted on Electron Hacks-Thanks! https://goo.gl/gvvyVh
+
 // The code below was developed to operate a four motor Rover-Robot with an Arduino 101 and 
 // Adafruit Motor-Servo Controller Shield-V2 using the Blynk iPhone app. 
  
