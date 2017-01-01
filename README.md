@@ -9,7 +9,10 @@ The code in sketch Four_Motor_JOYSTICK_Blynk_BLE_c was developed to operate a fo
  during compliation. It doesn't seem to be an issue.
  
  The other sketch in the repository: Four_Motor_Arduino_101_Blynk_BLE  will enable the operation of the Rover-Robot with seven 
- Blynk Pushbuttons instead of the Joystick
+ Blynk Pushbuttons instead of the Joystick. 
+ 
+ All of the sketch's presented here were inspired by "Intel Arduino 101 BLE Blynk Tank" posted on Electron 
+ Hacks - Thanks! https://goo.gl/gvvyVh
  
  The sketch Four_Motor_JOYSTICK_Blynk_BLE_D updates the steering logic. The long slider speed control is removed and the speed 
  is set to a constant 255. The diagonal turns occur by operating the turning side motors at 50% of the speed of the opposing 
