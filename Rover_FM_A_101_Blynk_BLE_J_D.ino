@@ -10,6 +10,8 @@
  The base code for this sketch comes from Arduino_101_BLE which can be found in the Arduino IDE 
  File>Examples>Blynk>Boards_Bluetooth  The Blynk Library http://www.blynk.cc/getting-started/
  must be loaded to access this example. Thank-you to Blynk for your amazing app!
+ 
+ This sketch was inspired by Intel Arduino 101 BLE Blynk Tank posted on Electron Hacks-Thanks! https://goo.gl/gvvyVh
 
  The code below was developed to operate a four motor Rover-Robot with an Arduino 101 and 
  Adafruit Motor-Servo Controller Shield using the Blynk iPhone app using the Blynk "Joystick" and two Blynk
